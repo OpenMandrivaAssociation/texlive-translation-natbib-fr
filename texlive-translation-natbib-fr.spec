@@ -34,3 +34,11 @@ A French translation of the documentation of natbib.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 19 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120114-1
++ Revision: 762752
+- texlive-translation-natbib-fr
+- texlive-translation-natbib-fr
+
