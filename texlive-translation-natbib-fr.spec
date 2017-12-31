@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-translation-natbib-fr
-Version:	20120114
-Release:	9
+Version:	20170414
+Release:	1
 Summary:	French translation of the documentation of natbib
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/translations/natbib/fr
