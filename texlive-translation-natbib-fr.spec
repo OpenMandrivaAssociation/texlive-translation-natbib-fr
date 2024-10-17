@@ -3,7 +3,7 @@ Version:	25105
 Release:	2
 Summary:	French translation of the documentation of natbib
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/translations/natbib/fr
+URL:		https://www.ctan.org/tex-archive/info/translations/natbib/fr
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-natbib-fr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-natbib-fr.doc.r%{version}.tar.xz
